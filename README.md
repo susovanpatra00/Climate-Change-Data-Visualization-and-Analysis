@@ -168,9 +168,9 @@ carbon emissions and sea levels over the years.
 
 
 ## Contributors 
-+ Mannu Kumar Gaddhyan
-+ Sudiksha Navik
-+ Drashtant Singh Rathore
++ Mannu Kumar Gaddhyan (IIT Kanpur)
++ Sudiksha Navik (IIT Kanpur)
++ Drashtant Singh Rathore (IIT Kanpur)
 
 
 
